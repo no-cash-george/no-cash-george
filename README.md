@@ -1,7 +1,5 @@
 # 💫 About Me:
-Digital Systems Student @ University of Piraeus<br><br>🚀 Currently refining my craft in Full Stack Web Development.<br>🐍 Exploring the depths of JavaScript and Python to build scalable solutions.<br>💡 Belief: Efficient code is good code.<br><br>LinkedIn: https://www.linkedin.com/in/george-papachristodoulou-4b536325b
-
-
+Digital Systems Student @ University of Piraeus<br><br>🚀 Currently refining my craft in Full Stack Web Development.<br>🐍 Exploring the depths of JavaScript and Python to build scalable solutions.<br>💡 Belief: Efficient code is good code.<br><br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-papachristodoulou-4b536325b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gpapjoin@gmail.com) 
 
