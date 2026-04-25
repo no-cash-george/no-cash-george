@@ -2,8 +2,11 @@
 **Digital Systems Student @ University of Piraeus (ΠΑΠΕΙ)**
 
 🚀 **Focus:** Cybersecurity & Embedded Systems.
+
 🛠️ **Currently:** Mastering low-level development in C and preparing for the **Cisco CCNA** (Expected Oct 2026).
+
 💡 **Mindset:** "Efficient code is secure code." Inspired by the strategic social engineering approach of **Kevin Mitnick**.
+
 🐍 **Versatility:** Building solutions from hardware-level (Arduino/RFID) to native mobile apps (Swift/SwiftUI).
 
 ---
