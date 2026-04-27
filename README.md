@@ -3,7 +3,7 @@
 
 🚀 **Focus:** Cybersecurity & Embedded Systems.
 
-🛠️ **Currently:** Mastering low-level development in C and preparing for the **Cisco CCNA** (Expected Oct 2026).
+🛠️ **Currently:** Mastering low-level development in C and refining knowledge in networking.
 
 💡 **Mindset:** "No system is safe." Inspired by the strategic social engineering approach of **Kevin Mitnick**.
 
