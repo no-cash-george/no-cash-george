@@ -13,7 +13,7 @@
 
 # 🛠️ Featured Projects:
 ### [GlwssaPlusPlus](https://github.com/no-cash-george/GlwssaPlusPlus) 
-*Java-based Transpiler & IDE for the educational language "GLWSSA". Deep dive into compilers and AST.*
+*Java-based Transpiler & IDE for the educational language "ΓΛΩΣΣΑ". Deep dive into compilers and AST.*
 
 ### [ListLibC](https://github.com/no-cash-george/ListLibC) 
 *Custom Singly Linked List library in C. Focused on manual memory management and secure coding.*
