@@ -16,7 +16,7 @@
 *Java-based Transpiler & IDE for the educational language "ΓΛΩΣΣΑ". Deep dive into compilers and AST.*
 
 ### [Cooking Monster](https://github.com/no-cash-george/CookingMonster) 
-*Offline first recipe management application.*
+*An offline-first, zero-backend personal recipe app built with flutter.*
 
 ### [oasaTelematicsDevKit](https://github.com/no-cash-george/oasaTelematicsDevKit) 
 *A Swift API wrapper for the OASA public transport system. Real-world problem solving with code.*
