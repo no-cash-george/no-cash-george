@@ -15,8 +15,8 @@
 ### [GlwssaPlusPlus](https://github.com/no-cash-george/GlwssaPlusPlus) 
 *Java-based Transpiler & IDE for the educational language "ΓΛΩΣΣΑ". Deep dive into compilers and AST.*
 
-### [ListLibC](https://github.com/no-cash-george/ListLibC) 
-*Custom Singly Linked List library in C. Focused on manual memory management and secure coding.*
+### [Cooking Monster](https://github.com/no-cash-george/CookingMonster) 
+*Offline first recipe management application.*
 
 ### [oasaTelematicsDevKit](https://github.com/no-cash-george/oasaTelematicsDevKit) 
 *A Swift API wrapper for the OASA public transport system. Real-world problem solving with code.*
