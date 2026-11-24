@@ -3,11 +3,11 @@
 
 🚀 **Focus:** Cybersecurity & Embedded Systems.
 
-🛠️ **Currently:** Mastering low-level development in C and refining knowledge in networking.
+🛠️ **Currently:** Mastering smartphone app development, refining my source to source compiler project and refining knowledge in cybersecurity.
 
 💡 **Mindset:** "No system is safe." Inspired by the strategic social engineering approach of **Kevin Mitnick**.
 
-🐍 **Versatility:** Building solutions from hardware-level (Arduino/RFID) to native mobile apps (Swift/SwiftUI).
+🐍 **Versatility:** Building solutions from hardware-level (Arduino/RFID) to native mobile apps (Swift/SwiftUI/Flutter).
 
 ---
 
